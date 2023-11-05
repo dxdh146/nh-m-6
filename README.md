@@ -1,4 +1,4 @@
-# NHÓM 6 - Đề tài: Xây dựng trang web xem phim độc quyền của Việt Nam 
+# NHÓM 8 - Đề tài: Xây dựng trang web xem phim độc quyền của Việt Nam 
  
 |    Họ và tên            |      MSV      | Chức vụ           |
 | :----------------------:|:-------------:|:----------------: |
