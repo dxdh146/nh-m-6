@@ -4,6 +4,6 @@
 
 ## Website tương tự:
 Dưới đây là một số trang web tương tự với chủ đề của nhóm:
-- [Website 1](https://www.netflix.com/)
-- [Website 2](https://motchill)
-- [Website 3](https://phimmoiyyy.net/)
+- [Netflix](https://www.netflix.com/)
+- [Motchill](https://motchill)
+- [Phimmoi](https://phimmoiyyy.net/)
